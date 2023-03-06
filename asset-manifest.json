@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/react-budget-app-seond/static/js/main.dfac5500.js",
+    "index.html": "/react-budget-app-seond/index.html",
+    "static/media/cross.svg": "/react-budget-app-seond/static/media/cross.b5ce850d2339ed2102c5710c49eb5866.svg",
+    "main.dfac5500.js.map": "/react-budget-app-seond/static/js/main.dfac5500.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.dfac5500.js"
+  ]
+}
